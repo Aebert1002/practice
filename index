@@ -1,0 +1,56 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" type="text/css" href="style.css" />
+<title>Tamara's Tutoring</title>
+</head>
+
+<body>
+<div class="wrapper"></div>
+<div class="wrapper">
+		<div class="wrapper">
+				<div class="sectionheader"id="top">
+						<h1>Tutoring by Tamara</h1>
+						<p>tutor: a person charged with the instruction and guidance of another</p>
+				</div>
+				<div id="middle">
+						<div class="section" id="about"> <img class="icons"src="images/user-1.png"/>
+								<h3>About Me</h3>
+								<p>I am a retired middle school teacher. I am married to my wonderful husband, Roy, and we have 3 children and 8 grandchildren.</p>
+								<p>My passion is helping others.</p>
+						</div>
+						<div class="section" id="subjects"> <img class="icons" src="images/notebook-4.png"/>
+								<h3>Subjects I cover</h3>
+								<p>Math</p>
+								<p>Science</p>
+								<p>History</p>
+								<p>English</p>
+								<p>Spanish</p>
+								<p>Social Studies</p>
+						</div>
+						<div class="section" id="pricing"> <img class="icons" src="images/price-tag.png"/>
+								<h3>Pricing</h3>
+								<p>Pricing is set on a case-by-case basis. The sliding scale may be used. want learning to be affordable to everyone.</p>
+						</div>
+				</div>
+				<div class="options">
+						<h3>Flexible Learning Options</h3>
+						<div class="description"> <img class="icons" src="images/house.png"/>
+								<h4>In your home</h4>
+								<p>I can travel up to 25 miles from Rochester, NY. Weekend availability!</p>
+						</div>
+						<div class="description"> <img class="icons" src="images/wifi-1.png"/>
+								<h4>Online</h4>
+								<p>I offer one-on-one online tutoring via Skype.</p>
+						</div>
+						<div id="contact">
+								<p>Contact me today. I would love to hear from you!</p>
+								<input name="email" type="text" dir="ltr" />
+								<input name="contact" type="button" value="Submit" />
+						</div>
+				</div>
+		</div>
+</div>
+</body>
+</html>
